@@ -1,6 +1,6 @@
 {
-  "name": "@sambego/storybook-state",
-  "version": "2.0.1",
+  "name": "@carium/storybook-state",
+  "version": "2.1.0",
   "description": "Manage state in storybook stories",
   "main": "dist/index.js",
   "scripts": {
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sambego/storybook-state.git"
+    "url": "git+https://github.com/carium-inc/storybook-state.git"
   },
   "keywords": [
     "storybook",
     "react-storybook",
     "react"
   ],
-  "author": "Sam Bellen",
+  "author": "Cameron Avelis",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Sambego/storybook-state/issues"
@@ -49,10 +49,10 @@
     "snyk": "^1.298.1"
   },
   "dependencies": {
-    "@storybook/addons": "^5.3.14",
-    "@storybook/api": "^5.3.14",
-    "@storybook/components": "^5.3.14",
-    "@storybook/react": "^5.3.14",
+    "@storybook/addons": "^6.5.15",
+    "@storybook/api": "^6.5.15",
+    "@storybook/components": "^6.5.15",
+    "@storybook/react": "^6.5.15",
     "uuid": "^3.1.0"
   }
 }
